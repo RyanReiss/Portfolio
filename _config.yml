@@ -1,0 +1,28 @@
+# Site settings
+title: Portfolio For Ryan Reiss
+email: rreiss1208@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hello! My name is Ryan Reiss. I am a video game developer and this is a website
+  dedicated to my game portfolio. A bit about myself, I have been programming for close to
+  10 Years
+baseurl: "/Portfolio/" # the subpath of your site, e.g. /blog/
+url: "https://ryanreiss.github.io" # the base hostname & protocol for your site
+
+# User setting
+owner: Ryan Reiss
+email: rreiss1208@gmail.com
+facebook_username: 
+twitter_username: @SaveDaFrogs
+github_username: RyanReiss
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
